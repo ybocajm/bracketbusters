@@ -1,0 +1,89 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: #F8F8F8;
+  font-size:40px;
+  text-align:center;
+}
+div {
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+  color:#F8F8F8;
+}
+b {
+  font-size:40px;
+}
+
+.duke {
+  background-color:#00539B;
+  color:#FFFFFF;
+}
+
+.duker {
+  background-color:#FFFFFF;
+  color:#00539B;
+}
+
+.gonzaga {
+  background-color:#041E42;
+  color:#C8102E;
+}
+
+.gonzagar {
+  background-color:#C8102E;
+  color:#041E42;
+}
+
+.indiana {
+  background-color:#990000;
+  color:#EDEBEB;
+}
+
+.indianar {
+  background-color:#EDEBEB;
+  color:#990000;
+}
+
+.murraystate {
+  background-color:#002144;
+  color:#ECAC00;
+}
+
+.murraystater {
+  background-color:#ECAC00;
+  color:#002144;
+}
+
+.oregon {
+  background-color:#004F39;
+  color:#FBE021;
+}
+
+.oregonr {
+  background-color:#FBE021;
+  color:#004F39;
+}
+
+.texas {
+  background-color:#BF5700;
+  color:#FFFFFF;
+}
+
+.texasr {
+  background-color:#FFFFFF;
+  color:#BF5700;
+}
+
+.virginia {
+  background-color:#F84C1E;
+  color:#232D4B;
+}
+
+.virginiar {
+  background-color:#232D4B;
+  color:#F84C1E;
+}
+
